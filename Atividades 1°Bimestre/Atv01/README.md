@@ -1,2 +1,3 @@
-# Explicação Código: 
-Código que apresentaa a soma de todos os argumentos inteiros ou reais recebidos.
+# Aluno:
+Eliseu da Luz Silva
+# Curso: 3°INF
