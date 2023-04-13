@@ -1,5 +1,5 @@
 # 2023INT-POO
-Material e Atividades da disciplina de POO 
+Atividades da disciplina de POO 
 
 ## Tutorial Git
 
@@ -10,4 +10,3 @@ Associando o GitHub no Visual Studio Code (https://www.youtube.com/watch?v=peGUk
 ## Abrir branch específico em uma instância do [binderhub](https://github.com/jupyterhub/binderhub)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bellincanta/2023INT-POO/HEAD)
-
